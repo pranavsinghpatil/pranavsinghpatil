@@ -1,10 +1,12 @@
 ![image](static/image1.png)
 <h1 align="center">Pranav Patil</h1>
-<h5 align="center">AI | ML | LLMs | Data Science Enthusiast 🚀 | Lifelong Learner 📚</h5>
+<h3 align="center">AI | ML | LLMs | Data Science Enthusiast 🚀 | Lifelong Learner 📚</h3>
 
 ---
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD700?style=for-the-badge&logo=huggingface&logoColor=black)  ![LangChain](https://img.shields.io/badge/LangChain-2E3440?style=for-the-badge&logo=langchain&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-009688?style=for-the-badge&logo=vectorsearch&logoColor=white)  ![Transformers](https://img.shields.io/badge/Transformers-4B0082?style=for-the-badge&logo=ai&logoColor=white)  ![GenAI](https://img.shields.io/badge/GenAI-FF6347?style=for-the-badge&logo=openai&logoColor=white)  ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)  ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)    ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)    ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![And More...](https://img.shields.io/badge/And_Much_More-FF5733?style=for-the-badge&logo=appveyor&logoColor=white)   
 
-<h2 align="center">💡 Learning. Building. Sharing.</h2>
+
+<h4 align="center">💡 Learning. Building. Sharing.</h4>
 
 
 
