@@ -1,8 +1,17 @@
-## Hi there 👋
+## 🚀 Hey there, I’m Pranav Patil! 👋
+AI | ML | LLMs | Data Science Enthusiast 🚀 | Lifelong Learner 📚
+
+![image](static/image.jpg)
+
+## ⚡ About Me
+- 🧠 AI & Machine Learning enthusiast exploring Deep Learning & LLMs.
+- 🛠️ Hands-on with AI frameworks – PyTorch, TensorFlow, Hugging Face.
+- 🎯 Mastering AI, building projects, and sharing insights.
+
+### 💡 Learning. Building. Sharing.
 
 
-**pranavsinghpatil/pranavsinghpatil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +22,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
