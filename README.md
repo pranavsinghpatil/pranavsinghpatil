@@ -1,7 +1,7 @@
 ## 🚀 Hey there, I’m Pranav Patil! 👋
 AI | ML | LLMs | Data Science Enthusiast 🚀 | Lifelong Learner 📚
 
-![image](static/image.jpg)
+![image](static/image1.png)
 
 ## ⚡ About Me
 - 🧠 AI & Machine Learning enthusiast exploring Deep Learning & LLMs.
